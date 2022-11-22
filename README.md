@@ -15,7 +15,7 @@
 <img align="center" alt="Luiz-FLASK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
 <div align="center"><br>
-  <a href="https://github.com/breno-mt">
+  <a href="https://github.com/Gustavo-Seemann">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Seemann&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Seemann&layout=compact&langs_count=8&theme=radical"/>
 </div><br>
