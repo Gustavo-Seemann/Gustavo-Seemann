@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.kibrispdr.org/data/1792/pixel-art-wallpaper-gif-18.gif"></p>
+<p align="center"><img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif"></p>
 
 <h1 align="center"> Welcome! 👋 My name is Luiz Gustavo!</h1>
 <p align="center"> I'm graduated in Analysis and Systems Development and I recently completed a Fullstack Developer course focused on Flask and Vue.js</p>
