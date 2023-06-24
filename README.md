@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif"></p>
 
 <h1 align="center"> Welcome! 👋 My name is Luiz Gustavo!</h1>
-<p align="center"> I'm graduated in Analysis and Systems Development and I recently completed a Fullstack Developer course focused on Flask and Vue.js</p>
+<p align="center"> I'm graduated in Systems Analysis and Development and I recently completed a Fullstack Developer course focused on Flask and Vue.js</p>
 </div>
 
 <div align="center" style="display:inline_block">
@@ -25,12 +25,13 @@
  - Git
  - HTML/CSS 
  - JavaScript 
- - Vue.js 
+ - Vue.js / Vuex / Vuetify
  - Python
  - Flask
- - SQL
+ - SQL / noSQL
  - MongoDB
  - Scrum and Kanban
+ - GCP (Cloud Functions, Cloud Taks, Cloud Scheduleres...)
 
 👋 You can find me here! [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luiz-gustavo-seemann-3a4821221/)
 
