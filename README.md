@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif"></p>
 
 <h1 align="center"> Welcome! 👋 My name is Luiz Gustavo!</h1>
-<p align="center"> I'm graduated in Systems Analysis and Development and I recently completed a Fullstack Developer course focused on Flask and Vue.js</p>
+<p align="center"> I'm graduated in Systems Analysis and Development and I completed a Fullstack Developer course focused on Flask and Vue.js</p>
 </div>
 
 <div align="center" style="display:inline_block">
