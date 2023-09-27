@@ -20,7 +20,9 @@
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Seemann&layout=compact&langs_count=8&theme=radical"/>
 </div><br>
 
-👋 You can find me here! [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luiz-gustavo-seemann-3a4821221/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-seemann-3a4821221/" align="center"><img alt="Luiz-LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 
 
