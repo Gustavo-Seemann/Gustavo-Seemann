@@ -1,19 +1,14 @@
 <p align="center"><img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif"></p>
 
 <h1 align="center"> Welcome! 👋 My name is Luiz Gustavo!</h1>
-<p align="center"> I'm graduated in Systems Analysis and Development and I currently working as a Fullstack Developer</p>
+<p align="center"> I'm graduated in Systems Analysis and Development and I currently working as a Front-end Software Developer</p>
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,vue,vuetify,nuxt,python,flask,postgresql,mongodb,figma,gcp,cypress,firebase&perline=8" />
+  </a>
+</p>
 
-<div align="center" style="display:inline_block">
-<img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-<img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-<img align="center" alt="Luiz-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-<img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
-<img align="center" alt="Luiz-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">  
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img align="center" alt="Luiz-PostGRE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-<img align="center" alt="Luiz-FLASK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-</div>
 <div align="center"><br>
   <a href="https://github.com/Gustavo-Seemann">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Seemann&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
