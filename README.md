@@ -11,7 +11,7 @@
 
 <div align="center"><br>
   <a href="https://github.com/Gustavo-Seemann">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Seemann&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Seemann&show_icons=true&theme=radical" />
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Seemann&layout=compact&langs_count=8&theme=radical"/>
 </div><br>
 
