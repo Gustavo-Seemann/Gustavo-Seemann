@@ -46,7 +46,7 @@ I enjoy working in collaborative environments, taking ownership of problems, and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,vue,vuetify,nuxt,python,flask,nodejs,express,postgresql,mongodb,figma,gcp,cypress,firebase&perline=30" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,vue,react,nuxt,python,flask,nodejs,express,postgresql,mongodb,figma,gcp,cypress,firebase&perline=30" />
   </a>
 </p>
 
