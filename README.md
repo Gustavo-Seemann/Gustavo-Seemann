@@ -35,7 +35,7 @@ I enjoy working in collaborative environments, taking ownership of problems, and
 
 | Category | Technologies |
 |--------|--------------|
-| **Frontend** | JavaScript (ES6+), TypeScript, Vue.js (Vue 2 & 3), Nuxt.js, React, Angular, HTML5, CSS3, Tailwind CSS, Vuetify, Quasar |
+| **Frontend** | JavaScript (ES6+), TypeScript, Vue.js (Vue 2 & 3), Nuxt.js, React, Next.js, Angular, HTML5, CSS3, Tailwind CSS, Vuetify, Quasar |
 | **UI / UX & Design** | Figma, UI Design, UX Principles, Design Systems, Prototyping |
 | **Backend** | Node.js, Python, REST APIs, Flask, Express.js |
 | **Testing & Quality** | TDD, E2E Testing, Cypress, Unit Testing |
